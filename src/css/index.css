@@ -1,0 +1,9 @@
+body{
+  background: pink;
+  color:black
+}
+.img{
+  background: url(../image/bag.jpg) no-repeat ;
+  width:1920px;
+  height:1200px;
+}
