@@ -10,7 +10,7 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       title: 'webpack',
-      template: 'public/index.html'
+      template: 'public/index.html'//指定的public下边的index.html
     }),
     new MiniCssExtractPlugin({
 
