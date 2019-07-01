@@ -1,0 +1,39 @@
+h1{
+  color:#fff;
+}
+
+::-webkit-input-placeholder{
+  background: pink
+}
+
+:-moz-placeholder{
+  background: pink
+}
+
+::-moz-placeholder{
+  background: pink
+}
+
+:-ms-input-placeholder{
+  background: pink
+}
+
+::-ms-input-placeholder{
+  background: pink
+}
+
+::placeholder{
+  background: pink
+}
+body{
+  background: url(/static/images/1.jpg) no-repeat;
+}
+
+body{
+  background: pink;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex
+}

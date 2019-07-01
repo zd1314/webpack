@@ -1,0 +1,10 @@
+h1{
+  color:#fff;
+}
+
+::placeholder{
+  background: pink
+}
+body{
+  background: url('./assets/1.jpg') no-repeat;
+}
